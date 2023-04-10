@@ -28,4 +28,5 @@ se trabajó y perfeccionó nuestro desempeño como equipo y con GitFlow.
 
 Actualmente me encuentro en busca de trabajo como Desarrollador Web Full Stack.
 
-Mi mail de contacto es pabloalvarez4222324@gmail.com
+Mail de contacto : pabloalvarez4222324@gmail.com
+LinkedIn : https://www.linkedin.com/in/pablo-alvarez-54b1a5248/
